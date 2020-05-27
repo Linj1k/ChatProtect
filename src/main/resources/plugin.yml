@@ -1,0 +1,11 @@
+name: ChatProtect
+version: 1.0
+author: kinj14
+main: fr.kinj14.chatprotect.Main
+api-version: 1.12
+website: https://orerun.ovh
+commands:
+  chatprotect:
+    description: reload or clear or (add or remove word)
+    permission: chatprotect
+    usage: "Usage: /chatprotect reload/clear/(add/remove [word])"
